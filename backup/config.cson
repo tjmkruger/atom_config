@@ -1,10 +1,18 @@
 "*":
+  "atom-ide-ui":
+    use:
+      "atom-ide-code-format": "always"
   core:
     telemetryConsent: "limited"
+  editor:
+    showIndentGuide: true
+    showInvisibles: true
   "exception-reporting":
     userId: "77e5002c-300b-41fb-a5f4-9c4886ce58b5"
   "git-diff-details":
     enableSyntaxHighlighting: true
+  "linter-ui-default":
+    panelHeight: 232
   "tool-bar":
     iconSize: "16px"
     position: "Left"
