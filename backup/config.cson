@@ -3,3 +3,7 @@
     telemetryConsent: "limited"
   "exception-reporting":
     userId: "77e5002c-300b-41fb-a5f4-9c4886ce58b5"
+  "tool-bar":
+    position: "Left"
+  welcome:
+    showOnStartup: false
