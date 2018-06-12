@@ -3,7 +3,16 @@
     title: "Whppt-Server"
     group: "Whppt"
     paths: [
-      "/Users/tjk/src/whppt/server"
+      "~/src/whppt/server"
     ]
+  }
+  {
+    title: "Whppt-Webapp"
+    group: "Whppt"
+    paths: [
+      "~/src/whppt/webapp"
+      "~/src/whppt/webapp/webapp"
+    ]
+    color: "green"
   }
 ]

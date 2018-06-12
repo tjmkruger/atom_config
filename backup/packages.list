@@ -1,11 +1,14 @@
+atom-beautify@0.32.5
 atom-clock@0.1.16
 atom-ide-ui@0.12.0
 atom-toolbar-preferred@1.4.1
 busy-signal@1.4.3
+console-log@1.10.0
 file-icons@2.1.21
 git-diff-details@1.4.0
 intentions@1.1.5
-linter@2.0.0
+language-vue@0.23.1
+linter@2.2.0
 linter-eslint@8.4.1
 linter-ui-default@1.7.1
 minimap@4.29.8

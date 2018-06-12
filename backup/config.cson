@@ -1,8 +1,19 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "8a2a6542-188a-4800-8a6b-2028b3d2b599"
+    js:
+      beautify_on_save: true
+    vue:
+      beautify_on_save: true
+      wrap_attributes: "force-aligned"
   "atom-ide-ui":
     use:
       "atom-ide-code-format": "always"
   core:
+    disabledPackages: [
+      "linter"
+    ]
     telemetryConsent: "limited"
   editor:
     showIndentGuide: true
@@ -11,8 +22,21 @@
     userId: "77e5002c-300b-41fb-a5f4-9c4886ce58b5"
   "git-diff-details":
     enableSyntaxHighlighting: true
+  "linter-eslint":
+    lintHtmlFiles: true
+    scopes: [
+      "source.js"
+      "source.jsx"
+      "source.js.jsx"
+      "source.babel"
+      "source.js-semantic"
+      "text.html.vue"
+      "source.js.embedded.html"
+    ]
   "linter-ui-default":
-    panelHeight: 232
+    panelHeight: 470
+  "project-manager":
+    savePathsRelativeToHome: true
   "tool-bar":
     iconSize: "16px"
     position: "Left"
