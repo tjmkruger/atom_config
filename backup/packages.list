@@ -6,7 +6,9 @@ busy-signal@1.4.3
 console-log@1.10.0
 file-icons@2.1.21
 git-diff-details@1.4.0
+ide-flowtype@0.23.0
 intentions@1.1.5
+language-docker@1.1.8
 language-vue@0.23.1
 linter@2.2.0
 linter-eslint@8.4.1

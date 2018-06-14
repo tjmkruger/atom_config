@@ -1,18 +1,35 @@
 [
   {
-    title: "Whppt-Server"
+    title: "Whppt Server"
     group: "Whppt"
     paths: [
       "~/src/whppt/server"
     ]
+    color: "green"
   }
   {
-    title: "Whppt-Webapp"
+    title: "Whppt Webapp"
     group: "Whppt"
     paths: [
       "~/src/whppt/webapp"
       "~/src/whppt/webapp/webapp"
     ]
     color: "green"
+  }
+  {
+    title: "Hendercare WebUI"
+    group: "Hendercare"
+    paths: [
+      "~/src/hendercare/hendercare/webui"
+    ]
+    color: "orange"
+  }
+  {
+    title: "Hendercare Server"
+    group: "Hendercare"
+    paths: [
+      "~/src/hendercare/hendercare/api"
+    ]
+    color: "orange"
   }
 ]
